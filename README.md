@@ -1,4 +1,3 @@
-# APEX — Barcelona '92 Simulation
 
 # APEX — Barcelona '92 Simulation
 
@@ -118,3 +117,4 @@ Este proyecto está licenciado bajo la licencia **MIT**. Consulta el archivo `LI
 - Autor: Diego
 - Email: diegold1607@gmail.com
 - Repositorio: https://github.com/DieGold1607/apex-engine
+
