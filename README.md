@@ -2,7 +2,7 @@
 
 # APEX — Barcelona '92 Simulation
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE) [![Python](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://www.python.org/) [![CI](https://github.com/DieGold1607/apex-engine/actions/workflows/ci.yml/badge.svg)](https://github.com/DieGold1607/apex-engine/actions)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE) [![Python](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://www.python.org/)
 
 Simulador interactivo de trayectorias parabólicas desarrollado con `streamlit` y `plotly`.
 
