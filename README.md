@@ -1,5 +1,7 @@
 # APEX — Barcelona '92 Simulation
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 Simulador interactivo de trayectorias parabólicas desarrollado con Streamlit y Plotly.
 
 ## Descripción
