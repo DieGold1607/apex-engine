@@ -2,7 +2,7 @@
 
 # APEX — Barcelona '92 Simulation
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE) [![Python](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://www.python.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE) [![Python](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://www.python.org/) [![CI](https://github.com/DieGold1607/apex-engine/actions/workflows/ci.yml/badge.svg)](https://github.com/DieGold1607/apex-engine/actions)
 
 Simulador interactivo de trayectorias parabólicas desarrollado con `streamlit` y `plotly`.
 
@@ -86,14 +86,7 @@ streamlit run app.py
 
 4. En la interfaz, ajusta parámetros (velocidad, ángulo, gravedad) en la barra lateral y observa la gráfica interactiva.
 
-## Capturas / Recursos
-
-Si quieres añadir una captura de pantalla en el README, sube la imagen al repositorio (por ejemplo `assets/screenshot.png`) y coloca la referencia Markdown:
-
-```markdown
-![Captura de APEX](assets/screenshot.png)
-```
-
+<!-- Capturas removed: store screenshots in assets/ if needed -->
 ## Desarrolladores
 
 - Recomendaciones de flujo: usar `develop` para trabajo diario y `main` solo para releases estables.
