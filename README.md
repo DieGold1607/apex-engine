@@ -48,7 +48,7 @@ Abre el enlace que Streamlit proporcione en la terminal para ver la interfaz.
 
 ## Licencia
 
-Indica la licencia que prefieras. Si quieres, puedo añadir una `MIT` por defecto.
+Este proyecto está licenciado bajo la licencia **MIT**. Consulta el archivo `LICENSE` en la raíz del repositorio para ver el texto completo.
 
 ## Contacto
 
